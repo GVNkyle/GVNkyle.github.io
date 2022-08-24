@@ -265,9 +265,6 @@ MIT
 ngx-spa-utilities
 MIT
 
-ngx-spa-utilities-notiflix
-MIT
-
 notiflix
 MIT
 MIT License
